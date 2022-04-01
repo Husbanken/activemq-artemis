@@ -1,0 +1,7 @@
+{
+  "$schema": "https://git01.local.husbanken.no/stash/projects/OP/repos/hb-schema/raw/hb-build/hb-build.json?at=4.5.2",
+  "systemgruppe": "hb",
+  "system": "base",
+  "navn": "artemis",
+  "version": "2.21.0"
+}
